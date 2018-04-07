@@ -16,7 +16,7 @@ body{
 #nrb{
     color: #333;
 }
-@media (max-width: 576px){
+@media (max-width: 575.98px){
     #compile{
         font-size: 12vw;
     }
@@ -39,6 +39,13 @@ body{
         
     }
 }
+@media (max-width: 767.98px) { 
+    #cfp{
+        font-size: 3.5vw;
+        font-weight: bold;
+    }
+}
+
 .large-header {
 	position: relative;
 	width: 100%;
