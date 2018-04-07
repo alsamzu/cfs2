@@ -10,8 +10,34 @@ body{
     font-size: 9.5vw;
    font-weight: 700;
     line-height: 1.1;
-    letter-spacing: 0;
+/*    letter-spacing: 0;*/
     padding: 0 0.3em;
+}
+#nrb{
+    color: #333;
+}
+@media (max-width: 576px){
+    #compile{
+        font-size: 12vw;
+    }
+    #nrb{
+        font-size: 6vw;
+    }
+    #date{
+        font-size: 5.4vw;
+    }
+    #venue{
+        font-size: 5.4vw;
+    }
+    #cfp{
+        font-size: 4vw;
+        font-weight: bold;
+    }
+    #btn{
+       
+        font-size: 4vw;
+        
+    }
 }
 .large-header {
 	position: relative;
