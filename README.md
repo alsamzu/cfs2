@@ -1,2 +1,8 @@
 # cfs2
-Confrence website
+Android Confrence website
+Technology used
+the technology used in this project was:
+
+HTML5
+CSS3
+JavaScript
